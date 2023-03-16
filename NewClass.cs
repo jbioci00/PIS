@@ -6,7 +6,7 @@ namespace jakov1
 {
     class Class1
     {
+        //koment
     }
 }
 
-//test promjena
